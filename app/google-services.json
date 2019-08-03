@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247618688429",
+    "firebase_url": "https://danyalrequestone.firebaseio.com",
+    "project_id": "danyalrequestone",
+    "storage_bucket": "danyalrequestone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247618688429:android:fd55603270b5e229",
+        "android_client_info": {
+          "package_name": "com.example.eddys.danyalrequestone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247618688429-4n5ki9j3gsu9skeri1jhi0k9t625rdbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eddys.danyalrequestone",
+            "certificate_hash": "a2df683e671c400b9e7f442aa08d516f4933cca2"
+          }
+        },
+        {
+          "client_id": "247618688429-5u7sh4of6njaccl5m49ea7g33natort5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKBZuEow5eH3VALhZI8tvvHJfkGYSttms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247618688429-5u7sh4of6njaccl5m49ea7g33natort5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

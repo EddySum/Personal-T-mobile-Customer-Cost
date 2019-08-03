@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffffff</color>
+    <color name="darkwhite">#ffeeeeee</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="semitransparent">#88000000</color>
+    <color name="postClick">#808080</color>
+    <color name="preClick">#C0C0C0</color>
+    <color name="light_blue">#ff00a2e8</color>
+    <color name="black">#ff000000</color>
+    <color name="output_one">#ada9a9</color>
+    <color name="output_two">#a2ada9a9</color>
+</resources>

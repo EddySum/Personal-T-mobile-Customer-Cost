@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="syncButton"
+        android:title="@string/sync"
+        android:summary="@string/sync_summary">
+    </Preference>
+
+    <EditTextPreference
+        android:key="tax"
+        android:title="@string/tax"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+
+</PreferenceScreen>

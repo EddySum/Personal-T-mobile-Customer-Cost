@@ -1,0 +1,31 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:key="device1"
+        android:title="@string/mi_device_One">
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="device2"
+        android:title="@string/mi_device_Two"
+        android:persistent="false">
+    </PreferenceScreen>
+
+
+
+
+    <PreferenceScreen
+        android:key="device3"
+        android:title="@string/mi_device_Three">
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="device4"
+        android:title="@string/mi_device_Four">
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="device5"
+        android:title="@string/mi_device_Five">
+    </PreferenceScreen>
+</PreferenceScreen>
+

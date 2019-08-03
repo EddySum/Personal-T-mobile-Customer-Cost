@@ -1,0 +1,97 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="syncButton"
+        android:title="@string/sync"
+        android:summary="@string/sync_summary">
+    </Preference>
+
+    <EditTextPreference
+        android:key="name"
+        android:title="@string/name"
+        android:inputType="text">
+    </EditTextPreference>
+
+
+    <EditTextPreference
+        android:key="baseCost"
+        android:title="@string/baseCost"
+        android:inputType="numberDecimal|numberSigned">
+</EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment1"
+        android:title="@string/DownPayment1"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment2"
+        android:title="@string/DownPayment2"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment3"
+        android:title="@string/DownPayment3"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment4"
+        android:title="@string/DownPayment4"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment5"
+        android:title="@string/DownPayment5"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment6"
+        android:title="@string/DownPayment6"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment7"
+        android:title="@string/DownPayment7"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment8"
+        android:title="@string/DownPayment8"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment9"
+        android:title="@string/DownPayment9"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment10"
+        android:title="@string/DownPayment10"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment11"
+        android:title="@string/DownPayment11"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="downPayment12"
+        android:title="@string/DownPayment12"
+        android:inputType="numberDecimal|numberSigned">
+    </EditTextPreference>
+
+
+
+
+</PreferenceScreen>
+
